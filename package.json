@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/attribute",
-  "version": "0.0.0-test",
+  "version": "1.0.0",
   "main": "out/init.lua",
   "author": {
     "name": "typechecked",
